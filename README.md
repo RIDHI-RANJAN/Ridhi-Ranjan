@@ -17,11 +17,11 @@ Here's a brief overview of who I am:
 
 ### 1. Portfolio Website
 
-![Portfolio Website](https://github.com/RIDHI-RANJAN/Portfolio-Website/blob/main/src/assets/img/logo.svg)
+![Portfolio Website]()
 
 **Description:** My personal portfolio website showcases my skills, projects, and experiences. It's a dynamic and responsive website created with HTML, CSS, and JavaScript.
 
-**Demo:** [View Portfolio Website](https://www.your-portfolio-website.com)
+**Demo:** [View Portfolio Website]([https://www.your-portfolio-website.com](https://ridhiranjan.netlify.app/))
 **GitHub Repository:** [Portfolio Website Repository](https://github.com/RIDHI-RANJAN/Portfolio-Website)
 
 ### 2. EIL EPF (Employee Provident Fund) Management System
