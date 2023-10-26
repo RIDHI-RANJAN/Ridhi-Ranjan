@@ -1,4 +1,4 @@
-# Landing Page Readme
+# Welcome to my Profile
 
 ## About Me
 
