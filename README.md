@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello and welcome to my landing page! I'm **Ridhi Ranjan**, a passionate and dedicated web developer with a strong background in creating stunning websites and web applications. This page serves as a gateway to learn more about me and explore some of the exciting projects I've worked on.
+Hello and welcome to my landing page! I'm **Ridhi Ranjan**, a passionate and dedicated web developer with aim to create stunning websites and web applications. This page serves as a gateway to learn more about me and explore some of the exciting projects I've worked on.
 
 Here's a brief overview of who I am:
 
