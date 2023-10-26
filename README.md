@@ -9,7 +9,7 @@ Here's a brief overview of who I am:
 - Name: Ridhi Ranjan
 - Location: West Delhi, Delhi-110059
 - Email: ridhiranjan007@gmail.com
-- Website: [Your Portfolio Website](https://www.your-portfolio-website.com)](https://ridhiranjan.netlify.app/)
+- Website:[Your Portfolio Website](https://ridhiranjan.netlify.app/)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ridhi-ranjan-048452146/)
 - GitHub: [GitHub Profile](https://github.com/RIDHI-RANJAN)
 
