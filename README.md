@@ -17,7 +17,7 @@ Here's a brief overview of who I am:
 
 ### 1. Portfolio Website
 
-![Portfolio Website](Project_Image_1_URL)
+![Portfolio Website](https://github.com/RIDHI-RANJAN/Portfolio-Website/blob/main/src/assets/img/logo.svg)
 
 **Description:** My personal portfolio website showcases my skills, projects, and experiences. It's a dynamic and responsive website created with HTML, CSS, and JavaScript.
 
