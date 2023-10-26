@@ -17,7 +17,7 @@ Here's a brief overview of who I am:
 ### 1. Portfolio Website
 
 
-**Description:** My personal portfolio website showcases my skills, projects, and experiences. It's a dynamic and responsive website created with HTML, CSS, and JavaScript.
+**Description:** My personal portfolio website showcases my skills, projects, and experiences. It's a dynamic and responsive website created with HTML, CSS, and React.js.
 
 **Demo:** [View Portfolio Website](https://ridhiranjan.netlify.app/)
 **GitHub Repository:** [Portfolio Website Repository](https://github.com/RIDHI-RANJAN/Portfolio-Website)
