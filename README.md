@@ -25,7 +25,7 @@ Here's a brief overview of who I am:
 
 ### 2. EIL EPF (Employee Provident Fund) Management System
 
-![EIL EPF](Project_Image_2_URL)
+![EIL EPF](https://ibb.co/xMV671k)
 
 **Description:** The Employee Provident Fund (EPF) Management System is a web-based application for managing employee provident fund accounts. It's built using .NET Framework (ASP.NET) and designed to streamline the EPF process for employees and administrators.
 
@@ -43,7 +43,7 @@ Here's a brief overview of who I am:
 
 ### 4. EDFLING Blog Website
 
-![EDFLING Blog Website](Project_Image_4_URL)
+![EDFLING Blog Website](https://ibb.co/M61zJmv)
 
 **Description:** The EDFLING Blog Website is a platform for sharing insightful blog posts on a variety of topics. This website is designed to provide a user-friendly interface for both authors and readers. It's built using [mention the technologies or frameworks used] to ensure a smooth and enjoyable experience for bloggers and their audience.
 
